@@ -15,4 +15,6 @@ Barcha paternlar 3 ta guruhga bo'lib tushuntirilgan
 Paternlarni qo'shish davom etmoqda
 
 ## Qayta o'zgartirishlar
-* Abstract Factory paterni tarjimasi qayta ko'rib chiqiladi
+* Abstract Factory paterni tarjimasi qayta ko'rib chiqiladi.
+* Builder paterni qo'llanmasida ayrim tarjima so'zlar mos so'z bilan
+  almashtiriladi. Shrift standartga keltiriladi.
