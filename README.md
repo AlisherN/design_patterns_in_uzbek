@@ -13,3 +13,6 @@ Barcha paternlar 3 ta guruhga bo'lib tushuntirilgan
 
 ## !!! Warning !!!
 Paternlarni qo'shish davom etmoqda
+
+## Qayta o'zgartirishlar
+* Abstract Factory paterni tarjimasi qayta ko'rib chiqiladi
